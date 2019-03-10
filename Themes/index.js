@@ -1,0 +1,1 @@
+module.exports = (heading, body) => `<h1>${heading}</h1>\n${body}`;
